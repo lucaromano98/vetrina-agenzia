@@ -1,0 +1,16 @@
+:root {
+    --allianz-blue: #003399;
+}
+
+.title-custom{
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: var(--allianz-blue);
+}
+
+.color-custom{
+    color: var(--allianz-blue);
+}
+
+.bi-instagram {
+    color: #E1306C; /* Rosa Instagram */
+  }
